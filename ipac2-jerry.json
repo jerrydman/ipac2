@@ -1,0 +1,138 @@
+{
+  "version" : 2,
+  "product" : "ipac2",
+  "1/2 shift key" : "1start",
+  "macros": {
+  },
+  "pins": {
+    "1right": {
+      "key": "right",
+      "shift": "tab"
+    },
+    "1up": {
+      "key": "up",
+      "shift": "`"
+    },
+    "1down": {
+      "key": "down",
+      "shift": "p"
+    },
+    "1left": {
+      "key": "left",
+      "shift": "enter"
+    },
+    "1sw1": {
+      "key": "alt",
+      "shift": "5"
+    },
+    "1sw2": {
+      "key": "ctrl",
+      "shift": ""
+    },
+    "1sw3": {
+      "key": "r",
+      "shift": ""
+    },   
+ 
+    "1sw4": {
+      "key": "v",
+      "shift": ""
+    },
+    "1sw5": {
+      "key": "space",
+      "shift": ""
+    },
+    "1sw6": {
+      "key": "shift",
+      "shift": ""
+    },
+    "1sw7": {
+      "key": "x",
+      "shift": ""
+    },
+    "1sw8": {
+      "key": "z",
+      "shift": ""
+    },
+    "1start": {
+      "key": "h",
+      "shift": ""
+    },
+    "1coin": {
+      "key": "y",
+      "shift": ""
+    },
+    "2right": {
+      "key": "g",
+      "shift": ""
+    },
+    "2up": {
+      "key": "r",
+      "shift": ""
+    },
+    "2down": {
+      "key": "f",
+      "shift": ""
+    },
+    "2left": {
+      "key": "d",
+      "shift": ""
+    },
+    "2sw1": {
+      "key": "s",
+      "shift": ""
+    },
+    "2sw2": {
+      "key": "a",
+      "shift": ""
+    },
+    "2sw3": {
+      "key": "k",
+      "shift": ""
+    },
+    "2sw4": {
+      "key": "i",
+      "shift": ""
+    },
+    "2sw5": {
+      "key": "w",
+      "shift": ""
+    },
+    "2sw6": {
+      "key": "q",
+      "shift": ""
+    },
+    "2sw7": {
+      "key": "l",
+      "shift": ""
+    },
+    "2sw8": {
+      "key": "o",
+      "shift": ""
+    },
+    "2start": {
+      "key": "j",
+      "shift": "esc"
+    },
+    "2coin": {
+      "key": "u",
+      "shift": ""
+    },
+    "1a": {
+      "key": "p",
+      "shift": ""
+    },
+    "2a": {
+      "key": "tab",
+      "shift": ""
+    },
+    "1b": {
+      "key": "enter",
+      "shift": ""
+    },
+    "2b": {
+      "key": "esc",
+      "shift": ""
+    }
+  }
+}
